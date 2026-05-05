@@ -1,51 +1,46 @@
 {
-  "site_name": "China Comércio Global",
-  "site_base_url": "https://chinacomercioglobal.com",
   "language": "pt-BR",
-  "tagline": "Conteúdo com visão mais profissional sobre comércio, supply chain e logística global ligada à China.",
-  "description": "Portal voltado para supply chain, fábricas na China, comércio internacional e decisões mais profissionais de importação.",
-  "author_name": "Redação China Comércio Global",
-  "brand_color": "#0d47a1",
-  "accent_color": "#ffca28",
   "default_og_image": "/assets/og/default.webp",
   "whatsapp": "https://wa.me/601133109658",
+  "site_name": "China Com\u00e9rcio Global",
+  "site_base_url": "https://chinacomercioglobal.com",
+  "tagline": "Supply chain B2B da China com foco em f\u00e1brica, qualidade, inspe\u00e7\u00e3o e log\u00edstica internacional.",
+  "description": "China Com\u00e9rcio Global apoia empresas que tratam a China como cadeia de fornecimento B2B: f\u00e1brica, capacidade produtiva, controle de qualidade, inspe\u00e7\u00e3o e log\u00edstica global.",
+  "author_name": "Reda\u00e7\u00e3o China Com\u00e9rcio Global",
+  "brand_color": "#0d47a1",
+  "accent_color": "#ffca28",
   "default_categories": [
     "Supply Chain da China",
-    "Comércio Internacional",
-    "Fábricas na China",
-    "Logística Global"
+    "F\u00e1bricas na China",
+    "Log\u00edstica Global"
   ],
   "category_meta": {
     "supply-chain-da-china": {
-      "label": "Supply Chain da China",
-      "description": "Artigos sobre estrutura de fornecimento, risco operacional e cadeia de suprimentos ligada à China."
-    },
-    "comercio-internacional": {
-      "label": "Comércio Internacional",
-      "description": "Conteúdo mais técnico sobre operação internacional, custo e tomada de decisão."
+      "label": "Supply Chain B2B",
+      "description": "Planejamento de fornecimento chin\u00eas para opera\u00e7\u00e3o recorrente, lead time, capacidade e risco de ruptura."
     },
     "fabricas-na-china": {
-      "label": "Fábricas na China",
-      "description": "Guias para entender tipos de fábrica, sourcing, produção e avaliação industrial."
+      "label": "F\u00e1bricas e Capacidade",
+      "description": "Como distinguir trading, fabricante, capacidade real, amostra, linha de produ\u00e7\u00e3o e prova industrial."
     },
     "logistica-global": {
-      "label": "Logística Global",
-      "description": "Conteúdo sobre modal, fluxo logístico e impactos de transporte no comércio internacional."
+      "label": "Qualidade e Log\u00edstica Global",
+      "description": "Inspe\u00e7\u00e3o, embalagem, embarque, consolida\u00e7\u00e3o e escolhas log\u00edsticas para cadeia internacional."
     }
   },
-  "hero_title": "Supply chain da China, fábricas e logística global",
-  "hero_subtitle": "Este site fala com um público mais analítico, focado em cadeia de suprimentos, operação internacional e decisões de compra mais maduras.",
-  "primary_cta_label": "Ver supply chain",
+  "hero_title": "Supply chain da China: f\u00e1bricas, qualidade e log\u00edstica global",
+  "hero_subtitle": "Conte\u00fado para opera\u00e7\u00f5es B2B que compram da China com repeti\u00e7\u00e3o, exig\u00eancia de qualidade, prazo e coordena\u00e7\u00e3o entre f\u00e1brica, inspe\u00e7\u00e3o e transporte global.",
+  "primary_cta_label": "Mapear supply chain",
   "primary_cta_target": "/supply-chain-da-china/",
-  "secondary_cta_label": "Explorar fábricas",
+  "secondary_cta_label": "Checar f\u00e1brica",
   "secondary_cta_target": "/fabricas-na-china/",
   "pain_points": [
-    "Decidir compra sem visão de cadeia",
-    "Ignorar risco operacional e logístico",
-    "Confundir trader, fábrica e fornecedor",
-    "Olhar só preço sem entender estrutura",
-    "Não medir impacto logístico no negócio",
-    "Comprar sem critério profissional"
+    "Tratar trading como f\u00e1brica sem prova de capacidade",
+    "Separar pre\u00e7o, qualidade e log\u00edstica em decis\u00f5es isoladas",
+    "N\u00e3o prever inspe\u00e7\u00e3o antes do embarque",
+    "Aceitar lead time sem plano de conting\u00eancia",
+    "Ignorar embalagem e consolida\u00e7\u00e3o na qualidade final",
+    "Escalar pedido sem governan\u00e7a de fornecedor"
   ],
   "homepage_featured_categories": [
     "supply-chain-da-china",
@@ -54,16 +49,16 @@
   ],
   "homepage_faq": [
     {
-      "q": "Como avaliar supply chain ao comprar da China?",
-      "a": "A análise precisa ir além do preço e incluir estrutura do fornecedor, logística, risco operacional e impacto no fluxo do negócio."
+      "q": "Este site \u00e9 para compra pequena ou opera\u00e7\u00e3o B2B?",
+      "a": "O foco \u00e9 B2B: fornecedores recorrentes, capacidade de f\u00e1brica, qualidade, inspe\u00e7\u00e3o e log\u00edstica internacional."
     },
     {
-      "q": "Como diferenciar fábrica, trader e fornecedor intermediário?",
-      "a": "A diferença aparece na capacidade produtiva, no controle da operação, na negociação e no nível de transparência sobre origem e prazo."
+      "q": "Como saber se o fornecedor \u00e9 f\u00e1brica mesmo?",
+      "a": "Procure provas de capacidade, linha produtiva, amostras consistentes, documenta\u00e7\u00e3o, hist\u00f3rico e respostas t\u00e9cnicas que resistem a perguntas espec\u00edficas."
     },
     {
-      "q": "Por que logística global precisa entrar na decisão de compra?",
-      "a": "Porque prazo, rota, custo e instabilidade logística mudam o resultado final da operação tanto quanto o valor negociado."
+      "q": "Qualidade deve ser checada antes ou depois do embarque?",
+      "a": "Antes. Inspe\u00e7\u00e3o tardia transforma problema de produ\u00e7\u00e3o em problema log\u00edstico e financeiro."
     }
   ]
 }
