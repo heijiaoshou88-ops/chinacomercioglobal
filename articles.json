@@ -450,10 +450,10 @@
     "path": "supply-chain-da-china/001-supply-chain-da-china-parece-eficiente-demais-e-isso-esconde-risco-para-quem-compra.html",
     "url": "https://chinacomercioglobal.com/supply-chain-da-china/001-supply-chain-da-china-parece-eficiente-demais-e-isso-esconde-risco-para-quem-compra.html",
     "date": "2026-05-05",
-    "updated_at": "2026-05-05T07:05:28Z",
+    "updated_at": "2026-05-05T15:30:00Z",
     "number": 1,
     "slug": "001-supply-chain-da-china-parece-eficiente-demais-e-isso-esconde-risco-para-quem-compra",
-    "word_count": 360,
+    "word_count": 665,
     "image_count": 1,
     "faq_count": 3,
     "related_links": [
@@ -499,6 +499,59 @@
       {
         "type": "text",
         "text": "## Leitura de relatório operacional\n\nLeia este tema como relatório B2B: capacidade, qualidade, prazo, inspeção e logística precisam aparecer juntos.\n\nUma fábrica não deve ser avaliada só pela resposta comercial. Peça evidência de produção, controle de qualidade e plano de embarque.\n\nQuando a operação é recorrente, o risco maior não é uma dúvida isolada; é depender de um processo que ninguém consegue auditar.\n\nPara este artigo, a leitura prática é: supply chain da china parece eficiente demais e isso esconde risco para quem compra precisa virar uma decisão verificável, não apenas uma impressão boa durante a conversa."
+      },
+      {
+        "type": "text",
+        "round4_tool": true,
+        "tool_type": "moq_matrix",
+        "text": "## Ferramenta prática: Matriz de MOQ\n\nUse esta ferramenta junto com o artigo sobre Supply chain da China parece eficiente demais e isso esconde risco para quem compra?. Ela transforma a leitura de Supply Chain da China em campos que você pode preencher antes de avançar. A ideia não é deixar a página mais longa. É fazer a leitura virar uma decisão que você consegue salvar, revisar e repetir."
+      },
+      {
+        "type": "table",
+        "round4_tool": true,
+        "tool_type": "moq_matrix",
+        "title": "Matriz de MOQ para decidir em: Supply chain da China parece eficiente demais e isso esconde risco para quem compra?",
+        "intro": "MOQ não é só quantidade mínima. Ele precisa caber em caixa, teste e giro.",
+        "headers": [
+          "Pergunta",
+          "Resposta que ajuda",
+          "Risco"
+        ],
+        "rows": [
+          [
+            "MOQ declarado",
+            "Quantidade mínima por cor/modelo",
+            "MOQ parece baixo, mas mistura variações"
+          ],
+          [
+            "Valor do teste",
+            "Total que você aceita aprender",
+            "Teste prende caixa demais"
+          ],
+          [
+            "Giro esperado",
+            "Quanto vender em 30-60 dias",
+            "Quantidade exige venda rápida demais"
+          ],
+          [
+            "Próximo lote",
+            "Condição para repetir",
+            "Fornecedor só dá preço bom em volume alto"
+          ]
+        ]
+      },
+      {
+        "type": "tool",
+        "round4_tool": true,
+        "tool_type": "moq_matrix",
+        "title": "Matriz de MOQ copiável",
+        "intro": "Copie este bloco e preencha antes de aplicar a decisão do artigo: Supply chain da China parece eficiente demais e isso esconde risco para quem compra?",
+        "items": [
+          "Use dados reais, não expectativa.",
+          "Marque qualquer campo que dependa só de promessa verbal.",
+          "Se dois campos críticos ficarem vazios, reduza o pedido ou peça nova prova."
+        ],
+        "copy_text": "MOQ informado: ____\nQuantidade que consigo testar: ____\nCapital máximo do teste: ____\nVariações/cor/modelo incluídas: ____\nGiro esperado em 30-60 dias: ____\nO que preciso vender para repetir: ____\nDecisão: aceitar MOQ / negociar / trocar produto"
       }
     ],
     "faq": [
@@ -520,7 +573,10 @@
       "length_band": "short",
       "voice": "professional",
       "site_layout": "report",
-      "cleanup": "p0_similarity_reduction"
+      "cleanup": "p0_similarity_reduction",
+      "tool_round": "round4_tool_content",
+      "tool_type": "moq_matrix",
+      "tool_label": "Matriz de MOQ"
     }
   },
   {
@@ -543,10 +599,10 @@
     "path": "fabricas-na-china/001-como-saber-se-uma-fabrica-na-china-e-fabrica-mesmo-e-nao-so-intermediacao-bem-embalada.html",
     "url": "https://chinacomercioglobal.com/fabricas-na-china/001-como-saber-se-uma-fabrica-na-china-e-fabrica-mesmo-e-nao-so-intermediacao-bem-embalada.html",
     "date": "2026-05-05",
-    "updated_at": "2026-05-05T07:05:28Z",
+    "updated_at": "2026-05-05T15:30:00Z",
     "number": 1,
     "slug": "001-como-saber-se-uma-fabrica-na-china-e-fabrica-mesmo-e-nao-so-intermediacao-bem-embalada",
-    "word_count": 503,
+    "word_count": 802,
     "image_count": 1,
     "faq_count": 3,
     "related_links": [
@@ -592,6 +648,59 @@
       {
         "type": "text",
         "text": "## Leitura de relatório operacional\n\nLeia este tema como relatório B2B: capacidade, qualidade, prazo, inspeção e logística precisam aparecer juntos.\n\nUma fábrica não deve ser avaliada só pela resposta comercial. Peça evidência de produção, controle de qualidade e plano de embarque.\n\nQuando a operação é recorrente, o risco maior não é uma dúvida isolada; é depender de um processo que ninguém consegue auditar.\n\nPara este artigo, a leitura prática é: como saber se uma fábrica na china é fábrica mesmo e não só intermediação bem embalada precisa virar uma decisão verificável, não apenas uma impressão boa durante a conversa."
+      },
+      {
+        "type": "text",
+        "round4_tool": true,
+        "tool_type": "supplier_checklist",
+        "text": "## Ferramenta prática: Checklist de fornecedor\n\nUse esta ferramenta junto com o artigo sobre Como saber se uma fábrica na China é fábrica mesmo e não só intermediação bem embalada?. Ela transforma a leitura de Fábricas na China em campos que você pode preencher antes de avançar. A ideia não é deixar a página mais longa. É fazer a leitura virar uma decisão que você consegue salvar, revisar e repetir."
+      },
+      {
+        "type": "table",
+        "round4_tool": true,
+        "tool_type": "supplier_checklist",
+        "title": "Checklist de fornecedor para: Como saber se uma fábrica na China é fábrica mesmo e não só intermediação bem embalada?",
+        "intro": "Marque apenas o que tem prova salva. Impressão boa não conta como validação.",
+        "headers": [
+          "Checagem",
+          "Prova aceitável",
+          "Quando pausar"
+        ],
+        "rows": [
+          [
+            "Empresa e contato",
+            "Nome, página, histórico e pessoa responsável",
+            "Contato muda de assunto ou some"
+          ],
+          [
+            "Produto real",
+            "Vídeo, foto própria ou amostra",
+            "Só há catálogo genérico"
+          ],
+          [
+            "Prazo e embalagem",
+            "Resposta escrita com detalhe",
+            "Resposta fica em 'sem problema'"
+          ],
+          [
+            "Condição de erro",
+            "Defeito, atraso e reposição explicados",
+            "Fornecedor pressiona pagamento antes da prova"
+          ]
+        ]
+      },
+      {
+        "type": "tool",
+        "round4_tool": true,
+        "tool_type": "supplier_checklist",
+        "title": "Checklist de fornecedor copiável",
+        "intro": "Copie este bloco e preencha antes de aplicar a decisão do artigo: Como saber se uma fábrica na China é fábrica mesmo e não só intermediação bem embalada?",
+        "items": [
+          "Use dados reais, não expectativa.",
+          "Marque qualquer campo que dependa só de promessa verbal.",
+          "Se dois campos críticos ficarem vazios, reduza o pedido ou peça nova prova."
+        ],
+        "copy_text": "Fornecedor: ____\nContato: ____\nProduto confirmado por prova real? ____\nEmbalagem confirmada? ____\nPrazo escrito? ____\nCondição para defeito/atraso: ____\nPrints salvos: ____\nDecisão: avançar / pedir prova / trocar fornecedor"
       }
     ],
     "faq": [
@@ -613,7 +722,10 @@
       "length_band": "medium",
       "voice": "professional",
       "site_layout": "report",
-      "cleanup": "p0_similarity_reduction"
+      "cleanup": "p0_similarity_reduction",
+      "tool_round": "round4_tool_content",
+      "tool_type": "supplier_checklist",
+      "tool_label": "Checklist de fornecedor"
     }
   },
   {
@@ -636,10 +748,10 @@
     "path": "logistica-global/001-logistica-global-da-china-vira-vantagem-ou-vira-risco-quando-a-operacao-cresce.html",
     "url": "https://chinacomercioglobal.com/logistica-global/001-logistica-global-da-china-vira-vantagem-ou-vira-risco-quando-a-operacao-cresce.html",
     "date": "2026-05-05",
-    "updated_at": "2026-05-05T07:05:28Z",
+    "updated_at": "2026-05-05T15:30:00Z",
     "number": 1,
     "slug": "001-logistica-global-da-china-vira-vantagem-ou-vira-risco-quando-a-operacao-cresce",
-    "word_count": 415,
+    "word_count": 704,
     "image_count": 1,
     "faq_count": 3,
     "related_links": [
@@ -685,6 +797,59 @@
       {
         "type": "text",
         "text": "## Leitura de relatório operacional\n\nLeia este tema como relatório B2B: capacidade, qualidade, prazo, inspeção e logística precisam aparecer juntos.\n\nUma fábrica não deve ser avaliada só pela resposta comercial. Peça evidência de produção, controle de qualidade e plano de embarque.\n\nQuando a operação é recorrente, o risco maior não é uma dúvida isolada; é depender de um processo que ninguém consegue auditar.\n\nPara este artigo, a leitura prática é: logística global da china vira vantagem ou vira risco quando a operação cresce precisa virar uma decisão verificável, não apenas uma impressão boa durante a conversa."
+      },
+      {
+        "type": "text",
+        "round4_tool": true,
+        "tool_type": "payment_risk",
+        "text": "## Ferramenta prática: Lista de risco de pagamento\n\nUse esta ferramenta junto com o artigo sobre Logística global da China vira vantagem ou vira risco quando a operação cresce?. Ela transforma a leitura de Logística Global em campos que você pode preencher antes de avançar. A ideia não é deixar a página mais longa. É fazer a leitura virar uma decisão que você consegue salvar, revisar e repetir."
+      },
+      {
+        "type": "table",
+        "round4_tool": true,
+        "tool_type": "payment_risk",
+        "title": "Lista de risco de pagamento para: Logística global da China vira vantagem ou vira risco quando a operação cresce?",
+        "intro": "Antes de pagar, separe risco normal de risco sem prova.",
+        "headers": [
+          "Risco",
+          "Como reduzir",
+          "Não pagar se"
+        ],
+        "rows": [
+          [
+            "Produto vago",
+            "Descrição e prova salvas",
+            "Só existe promessa verbal"
+          ],
+          [
+            "Prazo incerto",
+            "Data e etapa por escrito",
+            "Fornecedor evita compromisso"
+          ],
+          [
+            "Pagamento adiantado",
+            "Valor menor, etapa ou plataforma",
+            "Pressa substitui prova"
+          ],
+          [
+            "Problema futuro",
+            "Defeito, atraso e reposição combinados",
+            "Ninguém assume responsabilidade"
+          ]
+        ]
+      },
+      {
+        "type": "tool",
+        "round4_tool": true,
+        "tool_type": "payment_risk",
+        "title": "Lista de risco de pagamento copiável",
+        "intro": "Copie este bloco e preencha antes de aplicar a decisão do artigo: Logística global da China vira vantagem ou vira risco quando a operação cresce?",
+        "items": [
+          "Use dados reais, não expectativa.",
+          "Marque qualquer campo que dependa só de promessa verbal.",
+          "Se dois campos críticos ficarem vazios, reduza o pedido ou peça nova prova."
+        ],
+        "copy_text": "Valor a pagar agora: ____\nO que já está provado: ____\nO que ainda está só prometido: ____\nForma de pagamento: ____\nProteção/plataforma: ____\nCondição em caso de problema: ____\nSe eu precisar reclamar, que prova tenho? ____"
       }
     ],
     "faq": [
@@ -706,7 +871,10 @@
       "length_band": "short",
       "voice": "professional",
       "site_layout": "report",
-      "cleanup": "p0_similarity_reduction"
+      "cleanup": "p0_similarity_reduction",
+      "tool_round": "round4_tool_content",
+      "tool_type": "payment_risk",
+      "tool_label": "Lista de risco de pagamento"
     }
   },
   {
@@ -729,10 +897,10 @@
     "path": "supply-chain-da-china/002-supply-chain-da-china-continua-segura-quando-um-fornecedor-so-promete-e-nao-prova-nada.html",
     "url": "https://chinacomercioglobal.com/supply-chain-da-china/002-supply-chain-da-china-continua-segura-quando-um-fornecedor-so-promete-e-nao-prova-nada.html",
     "date": "2026-05-05",
-    "updated_at": "2026-05-05T07:05:28Z",
+    "updated_at": "2026-05-05T15:30:00Z",
     "number": 2,
     "slug": "002-supply-chain-da-china-continua-segura-quando-um-fornecedor-so-promete-e-nao-prova-nada",
-    "word_count": 651,
+    "word_count": 948,
     "image_count": 2,
     "faq_count": 3,
     "related_links": [
@@ -787,6 +955,59 @@
       {
         "type": "text",
         "text": "## Leitura de relatório operacional\n\nLeia este tema como relatório B2B: capacidade, qualidade, prazo, inspeção e logística precisam aparecer juntos.\n\nUma fábrica não deve ser avaliada só pela resposta comercial. Peça evidência de produção, controle de qualidade e plano de embarque.\n\nQuando a operação é recorrente, o risco maior não é uma dúvida isolada; é depender de um processo que ninguém consegue auditar.\n\nPara este artigo, a leitura prática é: supply chain da china continua segura quando um fornecedor só promete e não prova nada precisa virar uma decisão verificável, não apenas uma impressão boa durante a conversa."
+      },
+      {
+        "type": "text",
+        "round4_tool": true,
+        "tool_type": "supplier_checklist",
+        "text": "## Ferramenta prática: Checklist de fornecedor\n\nUse esta ferramenta junto com o artigo sobre Supply chain da China continua segura quando um fornecedor só promete e não prova nada?. Ela transforma a leitura de Supply Chain da China em campos que você pode preencher antes de avançar. A ideia não é deixar a página mais longa. É fazer a leitura virar uma decisão que você consegue salvar, revisar e repetir."
+      },
+      {
+        "type": "table",
+        "round4_tool": true,
+        "tool_type": "supplier_checklist",
+        "title": "Checklist de fornecedor para: Supply chain da China continua segura quando um fornecedor só promete e não prova nada?",
+        "intro": "Marque apenas o que tem prova salva. Impressão boa não conta como validação.",
+        "headers": [
+          "Checagem",
+          "Prova aceitável",
+          "Quando pausar"
+        ],
+        "rows": [
+          [
+            "Empresa e contato",
+            "Nome, página, histórico e pessoa responsável",
+            "Contato muda de assunto ou some"
+          ],
+          [
+            "Produto real",
+            "Vídeo, foto própria ou amostra",
+            "Só há catálogo genérico"
+          ],
+          [
+            "Prazo e embalagem",
+            "Resposta escrita com detalhe",
+            "Resposta fica em 'sem problema'"
+          ],
+          [
+            "Condição de erro",
+            "Defeito, atraso e reposição explicados",
+            "Fornecedor pressiona pagamento antes da prova"
+          ]
+        ]
+      },
+      {
+        "type": "tool",
+        "round4_tool": true,
+        "tool_type": "supplier_checklist",
+        "title": "Checklist de fornecedor copiável",
+        "intro": "Copie este bloco e preencha antes de aplicar a decisão do artigo: Supply chain da China continua segura quando um fornecedor só promete e não prova nada?",
+        "items": [
+          "Use dados reais, não expectativa.",
+          "Marque qualquer campo que dependa só de promessa verbal.",
+          "Se dois campos críticos ficarem vazios, reduza o pedido ou peça nova prova."
+        ],
+        "copy_text": "Fornecedor: ____\nContato: ____\nProduto confirmado por prova real? ____\nEmbalagem confirmada? ____\nPrazo escrito? ____\nCondição para defeito/atraso: ____\nPrints salvos: ____\nDecisão: avançar / pedir prova / trocar fornecedor"
       }
     ],
     "faq": [
@@ -808,7 +1029,10 @@
       "length_band": "medium",
       "voice": "professional",
       "site_layout": "report",
-      "cleanup": "p0_similarity_reduction"
+      "cleanup": "p0_similarity_reduction",
+      "tool_round": "round4_tool_content",
+      "tool_type": "supplier_checklist",
+      "tool_label": "Checklist de fornecedor"
     }
   },
   {
@@ -831,10 +1055,10 @@
     "path": "fabricas-na-china/002-visitar-fabrica-resolve-a-duvida-toda-ou-ainda-da-para-errar-feio-na-producao.html",
     "url": "https://chinacomercioglobal.com/fabricas-na-china/002-visitar-fabrica-resolve-a-duvida-toda-ou-ainda-da-para-errar-feio-na-producao.html",
     "date": "2026-05-05",
-    "updated_at": "2026-05-05T07:05:28Z",
+    "updated_at": "2026-05-05T15:30:00Z",
     "number": 2,
     "slug": "002-visitar-fabrica-resolve-a-duvida-toda-ou-ainda-da-para-errar-feio-na-producao",
-    "word_count": 905,
+    "word_count": 1189,
     "image_count": 2,
     "faq_count": 3,
     "related_links": [
@@ -889,6 +1113,59 @@
       {
         "type": "text",
         "text": "## Leitura de relatório operacional\n\nLeia este tema como relatório B2B: capacidade, qualidade, prazo, inspeção e logística precisam aparecer juntos.\n\nUma fábrica não deve ser avaliada só pela resposta comercial. Peça evidência de produção, controle de qualidade e plano de embarque.\n\nQuando a operação é recorrente, o risco maior não é uma dúvida isolada; é depender de um processo que ninguém consegue auditar.\n\nPara este artigo, a leitura prática é: visitar fábrica resolve a dúvida toda ou ainda dá para errar feio na produção precisa virar uma decisão verificável, não apenas uma impressão boa durante a conversa."
+      },
+      {
+        "type": "text",
+        "round4_tool": true,
+        "tool_type": "sample_acceptance",
+        "text": "## Ferramenta prática: Ficha de amostra\n\nUse esta ferramenta junto com o artigo sobre Visitar fábrica resolve a dúvida toda ou ainda dá para errar feio na produção?. Ela transforma a leitura de Fábricas na China em campos que você pode preencher antes de avançar. A ideia não é deixar a página mais longa. É fazer a leitura virar uma decisão que você consegue salvar, revisar e repetir."
+      },
+      {
+        "type": "table",
+        "round4_tool": true,
+        "tool_type": "sample_acceptance",
+        "title": "Ficha de amostra para: Visitar fábrica resolve a dúvida toda ou ainda dá para errar feio na produção?",
+        "intro": "Amostra boa precisa virar critério. Não aprove só porque o item chegou.",
+        "headers": [
+          "Item",
+          "Como avaliar",
+          "Reprovar se"
+        ],
+        "rows": [
+          [
+            "Acabamento",
+            "Compare foto, material e toque",
+            "Difere do prometido"
+          ],
+          [
+            "Embalagem",
+            "Teste proteção e apresentação",
+            "Chega amassada ou sem padrão"
+          ],
+          [
+            "Uso real",
+            "Teste por algumas horas/dias",
+            "Falha antes de uso normal"
+          ],
+          [
+            "Repetição",
+            "Pergunte se o lote virá igual",
+            "Fornecedor não garante padrão"
+          ]
+        ]
+      },
+      {
+        "type": "tool",
+        "round4_tool": true,
+        "tool_type": "sample_acceptance",
+        "title": "Ficha de amostra copiável",
+        "intro": "Copie este bloco e preencha antes de aplicar a decisão do artigo: Visitar fábrica resolve a dúvida toda ou ainda dá para errar feio na produção?",
+        "items": [
+          "Use dados reais, não expectativa.",
+          "Marque qualquer campo que dependa só de promessa verbal.",
+          "Se dois campos críticos ficarem vazios, reduza o pedido ou peça nova prova."
+        ],
+        "copy_text": "Amostra recebida em: ____\nAcabamento: aprovado / revisar\nEmbalagem: aprovado / revisar\nTamanho/peso: aprovado / revisar\nTeste de uso: aprovado / revisar\nDiferença contra anúncio: ____\nPergunta antes do lote: ____"
       }
     ],
     "faq": [
@@ -910,7 +1187,10 @@
       "length_band": "long",
       "voice": "professional",
       "site_layout": "report",
-      "cleanup": "p0_similarity_reduction"
+      "cleanup": "p0_similarity_reduction",
+      "tool_round": "round4_tool_content",
+      "tool_type": "sample_acceptance",
+      "tool_label": "Ficha de amostra"
     }
   },
   {
@@ -933,10 +1213,10 @@
     "path": "logistica-global/002-frete-mais-barato-na-logistica-global-da-china-ajuda-mesmo-ou-so-esconde-atraso-caro-depois.html",
     "url": "https://chinacomercioglobal.com/logistica-global/002-frete-mais-barato-na-logistica-global-da-china-ajuda-mesmo-ou-so-esconde-atraso-caro-depois.html",
     "date": "2026-05-05",
-    "updated_at": "2026-05-05T07:05:28Z",
+    "updated_at": "2026-05-05T15:30:00Z",
     "number": 2,
     "slug": "002-frete-mais-barato-na-logistica-global-da-china-ajuda-mesmo-ou-so-esconde-atraso-caro-depois",
-    "word_count": 364,
+    "word_count": 681,
     "image_count": 1,
     "faq_count": 3,
     "related_links": [
@@ -982,6 +1262,59 @@
       {
         "type": "text",
         "text": "## Leitura de relatório operacional\n\nLeia este tema como relatório B2B: capacidade, qualidade, prazo, inspeção e logística precisam aparecer juntos.\n\nUma fábrica não deve ser avaliada só pela resposta comercial. Peça evidência de produção, controle de qualidade e plano de embarque.\n\nQuando a operação é recorrente, o risco maior não é uma dúvida isolada; é depender de um processo que ninguém consegue auditar.\n\nPara este artigo, a leitura prática é: frete mais barato na logística global da china ajuda mesmo ou só esconde atraso caro depois precisa virar uma decisão verificável, não apenas uma impressão boa durante a conversa."
+      },
+      {
+        "type": "text",
+        "round4_tool": true,
+        "tool_type": "quote_template",
+        "text": "## Ferramenta prática: Modelo de WhatsApp/e-mail\n\nUse esta ferramenta junto com o artigo sobre Frete mais barato na logística global da China ajuda mesmo ou só esconde atraso caro depois?. Ela transforma a leitura de Logística Global em campos que você pode preencher antes de avançar. A ideia não é deixar a página mais longa. É fazer a leitura virar uma decisão que você consegue salvar, revisar e repetir."
+      },
+      {
+        "type": "table",
+        "round4_tool": true,
+        "tool_type": "quote_template",
+        "title": "Campos para pedir cotação sobre: Frete mais barato na logística global da China ajuda mesmo ou só esconde atraso caro depois?",
+        "intro": "Antes de mandar a mensagem, confirme se a pergunta deixa pouco espaço para resposta vaga.",
+        "headers": [
+          "Campo",
+          "Informação a pedir",
+          "Resposta fraca"
+        ],
+        "rows": [
+          [
+            "Produto",
+            "Modelo, material, tamanho, variação",
+            "Fornecedor responde só com preço"
+          ],
+          [
+            "Quantidade",
+            "MOQ, preço por faixa e amostra",
+            "MOQ muda sem explicação"
+          ],
+          [
+            "Embalagem",
+            "Foto, etiqueta, caixa, proteção",
+            "Diz que ajusta depois"
+          ],
+          [
+            "Prazo e pagamento",
+            "Produção, envio, sinal, saldo",
+            "Pede pagamento antes de detalhar"
+          ]
+        ]
+      },
+      {
+        "type": "tool",
+        "round4_tool": true,
+        "tool_type": "quote_template",
+        "title": "Modelo de WhatsApp/e-mail copiável",
+        "intro": "Copie este bloco e preencha antes de aplicar a decisão do artigo: Frete mais barato na logística global da China ajuda mesmo ou só esconde atraso caro depois?",
+        "items": [
+          "Use dados reais, não expectativa.",
+          "Marque qualquer campo que dependa só de promessa verbal.",
+          "Se dois campos críticos ficarem vazios, reduza o pedido ou peça nova prova."
+        ],
+        "copy_text": "Olá, estou avaliando este produto para compra no Brasil/LatAm.\nProduto/modelo: ____\nQuantidade inicial: ____\nPreciso confirmar: material, embalagem, MOQ, prazo de produção, frete estimado e condição em caso de defeito.\nVocê pode enviar foto/vídeo real do produto e cotação por faixa de quantidade?\nObrigado."
       }
     ],
     "faq": [
@@ -1003,7 +1336,10 @@
       "length_band": "short",
       "voice": "professional",
       "site_layout": "report",
-      "cleanup": "p0_similarity_reduction"
+      "cleanup": "p0_similarity_reduction",
+      "tool_round": "round4_tool_content",
+      "tool_type": "quote_template",
+      "tool_label": "Modelo de WhatsApp/e-mail"
     }
   },
   {
@@ -1026,10 +1362,10 @@
     "path": "logistica-global/003-logistica-global-fica-segura-quando-o-fornecedor-terceiriza-tudo-e-voce-quase-nao-enxerga-a-rota.html",
     "url": "https://chinacomercioglobal.com/logistica-global/003-logistica-global-fica-segura-quando-o-fornecedor-terceiriza-tudo-e-voce-quase-nao-enxerga-a-rota.html",
     "date": "2026-05-05",
-    "updated_at": "2026-05-05T07:05:28Z",
+    "updated_at": "2026-05-05T15:30:00Z",
     "number": 3,
     "slug": "003-logistica-global-fica-segura-quando-o-fornecedor-terceiriza-tudo-e-voce-quase-nao-enxerga-a-rota",
-    "word_count": 513,
+    "word_count": 811,
     "image_count": 1,
     "faq_count": 3,
     "related_links": [
@@ -1075,6 +1411,59 @@
       {
         "type": "text",
         "text": "## Leitura de relatório operacional\n\nLeia este tema como relatório B2B: capacidade, qualidade, prazo, inspeção e logística precisam aparecer juntos.\n\nUma fábrica não deve ser avaliada só pela resposta comercial. Peça evidência de produção, controle de qualidade e plano de embarque.\n\nQuando a operação é recorrente, o risco maior não é uma dúvida isolada; é depender de um processo que ninguém consegue auditar.\n\nPara este artigo, a leitura prática é: logística global fica segura quando o fornecedor terceiriza tudo e você quase não enxerga a rota precisa virar uma decisão verificável, não apenas uma impressão boa durante a conversa."
+      },
+      {
+        "type": "text",
+        "round4_tool": true,
+        "tool_type": "payment_risk",
+        "text": "## Ferramenta prática: Lista de risco de pagamento\n\nUse esta ferramenta junto com o artigo sobre Logística global fica segura quando o fornecedor terceiriza tudo e você quase não enxerga a rota?. Ela transforma a leitura de Logística Global em campos que você pode preencher antes de avançar. A ideia não é deixar a página mais longa. É fazer a leitura virar uma decisão que você consegue salvar, revisar e repetir."
+      },
+      {
+        "type": "table",
+        "round4_tool": true,
+        "tool_type": "payment_risk",
+        "title": "Lista de risco de pagamento para: Logística global fica segura quando o fornecedor terceiriza tudo e você quase não enxerga a rota?",
+        "intro": "Antes de pagar, separe risco normal de risco sem prova.",
+        "headers": [
+          "Risco",
+          "Como reduzir",
+          "Não pagar se"
+        ],
+        "rows": [
+          [
+            "Produto vago",
+            "Descrição e prova salvas",
+            "Só existe promessa verbal"
+          ],
+          [
+            "Prazo incerto",
+            "Data e etapa por escrito",
+            "Fornecedor evita compromisso"
+          ],
+          [
+            "Pagamento adiantado",
+            "Valor menor, etapa ou plataforma",
+            "Pressa substitui prova"
+          ],
+          [
+            "Problema futuro",
+            "Defeito, atraso e reposição combinados",
+            "Ninguém assume responsabilidade"
+          ]
+        ]
+      },
+      {
+        "type": "tool",
+        "round4_tool": true,
+        "tool_type": "payment_risk",
+        "title": "Lista de risco de pagamento copiável",
+        "intro": "Copie este bloco e preencha antes de aplicar a decisão do artigo: Logística global fica segura quando o fornecedor terceiriza tudo e você quase não enxerga a rota?",
+        "items": [
+          "Use dados reais, não expectativa.",
+          "Marque qualquer campo que dependa só de promessa verbal.",
+          "Se dois campos críticos ficarem vazios, reduza o pedido ou peça nova prova."
+        ],
+        "copy_text": "Valor a pagar agora: ____\nO que já está provado: ____\nO que ainda está só prometido: ____\nForma de pagamento: ____\nProteção/plataforma: ____\nCondição em caso de problema: ____\nSe eu precisar reclamar, que prova tenho? ____"
       }
     ],
     "faq": [
@@ -1096,7 +1485,10 @@
       "length_band": "medium",
       "voice": "professional",
       "site_layout": "report",
-      "cleanup": "p0_similarity_reduction"
+      "cleanup": "p0_similarity_reduction",
+      "tool_round": "round4_tool_content",
+      "tool_type": "payment_risk",
+      "tool_label": "Lista de risco de pagamento"
     }
   }
 ]
