@@ -1,8 +1,8 @@
 [
   {
     "id": "20260507-fabricas-na-china-004",
-    "title": "Fábrica de caixa de som Bluetooth: como medir capacidade antes do lote",
-    "description": "Antes de fechar caixa de som Bluetooth com fábrica chinesa, veja sinais de capacidade, QC, lead time e risco de produção.",
+    "title": "Fábrica de caixa de som Bluetooth: capacidade antes do contrato",
+    "description": "Avalie fábrica chinesa de caixa de som Bluetooth por componente, lead time, QC e risco de trocar peça durante produção.",
     "category": "Fábricas na China",
     "category_slug": "fabricas-na-china",
     "tags": [
@@ -19,10 +19,10 @@
     "path": "fabricas-na-china/004-fabrica-de-caixa-de-som-bluetooth-capacidade-antes-do-lote.html",
     "url": "https://chinacomercioglobal.com/fabricas-na-china/004-fabrica-de-caixa-de-som-bluetooth-capacidade-antes-do-lote.html",
     "date": "2026-05-07",
-    "updated_at": "2026-05-07T00:16:11Z",
+    "updated_at": "2026-05-07T01:36:07Z",
     "number": 4,
     "slug": "004-fabrica-de-caixa-de-som-bluetooth-capacidade-antes-do-lote",
-    "word_count": 624,
+    "word_count": 485,
     "image_count": 1,
     "faq_count": 3,
     "related_links": [
@@ -64,21 +64,21 @@
       },
       {
         "type": "text",
-        "text": "Para compra B2B, a pergunta não é se a fábrica consegue fazer caixa de som Bluetooth. Quase todas dizem que conseguem. A pergunta correta é se ela consegue repetir o mesmo padrão em 800 unidades, no prazo combinado, com defeito controlado e documentação suficiente para você defender a compra.\n\n## A primeira leitura de capacidade\n\nPeça três provas antes de discutir desconto: vídeo da linha ou bancada de montagem, lista de componentes principais e histórico de lead time para lote parecido. Se a fábrica evita qualquer uma dessas provas, o risco não está no preço. Está na falta de visibilidade operacional.\n\n## Campos que eu exigiria\n\nProduto: caixa de som Bluetooth compacta.\nLote: 800 unidades.\nLead time prometido: 28 dias.\nJanela aceitável: até 35 dias.\nTaxa de defeito tolerada no teste: até 2%.\nInspeção: amostra durante produção e checagem pré-embarque.\n\nSe o lead time passa de 35 dias antes mesmo do depósito, eu trataria como WAIT. Se a fábrica não aceita inspeção pré-embarque, vira STOP.\n\n## Onde a operação costuma falhar\n\nA amostra usa um chip e o lote usa outro. A caixa toca bem no vídeo, mas a bateria real dura menos. A fábrica terceiriza parte da montagem e não avisa. O fornecedor fala em capacidade alta, mas não mostra fila de produção, equipe ou embalagem final.\n\n## Matriz de decisão\n\nGO: fábrica mostra linha, componente, embalagem e aceita inspeção.\n\nWAIT: preço está bom, mas falta lead time escrito ou critério de defeito.\n\nSTOP: fornecedor recusa inspeção, troca componente sem aviso ou não identifica quem produz.\n\n## Roteiro de inspeção enxuto\n\n[ ] confirmar versão do chip e bateria\n[ ] testar áudio em volume médio e alto\n[ ] medir pareamento em 5 unidades aleatórias\n[ ] abrir embalagem final e verificar manual, cabo e etiqueta\n[ ] fotografar defeitos antes do embarque\n\n## O sinal contraintuitivo\n\nFábrica grande demais também pode ser risco para comprador pequeno. Se o seu lote é pequeno para ela, você pode cair no fim da fila. Às vezes uma fábrica média, com resposta técnica e inspeção aceita, é melhor do que uma estrutura enorme que não dá atenção ao seu pedido.\n\n## O relatório que eu pediria antes do depósito\n\nPara uma fábrica de caixa de som Bluetooth, eu pediria uma ficha simples: componente principal, versão da bateria, teste de autonomia, tipo de embalagem, lead time por etapa e responsável pelo QC. Não precisa virar documento enorme. Precisa virar registro claro.\n\nSe a fábrica responde com catálogo e não com processo, o risco continua alto. Catálogo prova que ela vende. Processo mostra se ela consegue entregar o seu lote.\n\n## Falha que só aparece na produção\n\nUm lote de 800 unidades pode começar bem e quebrar no meio quando falta componente. A fábrica troca fornecedor de bateria, mantém o prazo e não avisa. No embarque, tudo parece igual por fora. O problema aparece depois, quando compradores reclamam de autonomia menor.\n\nÉ por isso que inspeção pré-embarque não deve olhar só caixa e quantidade. Precisa testar função, acessório e amostragem mínima. Em eletrônico, \"ligou\" não é teste suficiente.\n\n## Decisão operacional\n\nGO se a fábrica aceita inspeção, identifica componente e mantém lead time por escrito. WAIT se falta ficha técnica ou se a linha está ocupada. STOP se ela terceiriza parte crítica e evita dizer onde a produção acontece.\n\nUma compra B2B segura não nasce do menor preço. Nasce de uma operação que você consegue auditar antes do dinheiro virar lote."
+        "text": "Em compra B2B, \"somos fábrica\" não significa muita coisa. O que importa é se a empresa consegue repetir o mesmo padrão durante o lote, registrar componente, aceitar inspeção e manter lead time quando aparece pressão de produção.\n\n## A pergunta que abre o diagnóstico\n\nEu começaria com uma pergunta pouco glamourosa: \"qual componente pode mudar entre a amostra e o lote?\"\n\nSe a fábrica responde com clareza sobre bateria, chip, alto-falante, placa e embalagem, existe conversa técnica. Se responde só com catálogo, ainda estamos no campo comercial.\n\nPara caixa de som Bluetooth, o risco real não é o produto não ligar. É ligar, mas durar menos. É parear, mas falhar em parte do lote. É vir com acessório diferente. É trocar bateria por falta de insumo sem avisar.\n\n## O mini-relatório antes do depósito\n\nEu pediria um documento simples, mesmo que seja em tabela:\n\n- lote previsto: 800 unidades\n- lead time prometido: 28 dias\n- janela aceitável: até 35 dias\n- bateria e chip usados na amostra\n- embalagem final\n- teste de pareamento\n- teste de autonomia\n- critério de defeito aceito\n- inspeção antes do embarque\n\nNão precisa parecer relatório corporativo. Precisa permitir cobrança.\n\n## Onde a fábrica boa também falha\n\nFábrica organizada pode falhar quando o comprador é pequeno para a fila dela. O vendedor promete 28 dias, mas seu lote entra depois de outro pedido maior. Ou a fábrica mantém o preço, mas troca fornecedor de bateria porque o componente original atrasou.\n\nEsse é o ponto que muita auditoria superficial não pega: capacidade existe, prioridade não.\n\n## Como eu leria os sinais\n\nSinal forte: a fábrica aceita inspeção pré-embarque e informa componente da amostra.\n\nSinal fraco: ela mostra máquinas, mas não explica controle de lote.\n\nSinal perigoso: terceiriza montagem crítica e trata isso como detalhe.\n\nEu não fecharia contrato se a fábrica não aceita registrar componente e lead time. Em eletrônico, isso é básico.\n\n## Inspeção que realmente importa\n\nNa inspeção, eu não olharia só quantidade. Separaria unidades aleatórias, testaria pareamento, volume médio, volume alto, cabo, manual, etiqueta e embalagem. Também compararia peso e acabamento com a amostra aprovada.\n\nSe 2% do lote já mostra falha funcional antes do embarque, eu pausaria. Corrigir no Brasil costuma ser mais caro do que segurar a carga na origem.\n\n## Decisão final\n\nEu avançaria com fábrica média que aceita prova, inspeção e registro técnico. Eu teria cuidado com fábrica grande demais que trata seu pedido como secundário. E pararia com qualquer fornecedor que venda capacidade, mas esconda processo.\n\nPreço B2B bom é o que vem com controle. Sem controle, o desconto só antecipa o problema."
       }
     ],
     "faq": [
       {
-        "q": "Como saber se é fábrica mesmo?",
-        "a": "Peça prova de linha, componente, embalagem e capacidade para lote parecido, não só fotos de catálogo."
+        "q": "Como saber se a fábrica tem capacidade real?",
+        "a": "Peça componente, lead time por etapa, prova de linha e aceite de inspeção antes do embarque."
       },
       {
-        "q": "Inspeção é necessária em eletrônico?",
-        "a": "Sim. Caixa de som tem risco de bateria, áudio, pareamento e acessório diferente do combinado."
+        "q": "Fábrica grande é sempre melhor?",
+        "a": "Não. Se seu lote é pequeno para ela, você pode perder prioridade."
       },
       {
-        "q": "Quando trocar fornecedor?",
-        "a": "Quando ele evita inspeção, muda componente ou não coloca lead time e padrão de defeito por escrito."
+        "q": "O que testar em caixa de som Bluetooth?",
+        "a": "Pareamento, autonomia, volume, acessório, embalagem, etiqueta e amostra aleatória do lote."
       }
     ]
   },
