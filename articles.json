@@ -1,5 +1,96 @@
 [
   {
+    "id": "20260516-logistica-global-005",
+    "title": "Inspeção de qualidade na China: em qual etapa ela realmente evita prejuízo?",
+    "description": "Amostra boa não garante lote bom. Veja quando inspecionar, o que medir e em que ponto parar antes de liberar embarque.",
+    "category": "Logística Global",
+    "category_slug": "logistica-global",
+    "tags": [
+      "inspeção",
+      "qualidade",
+      "lote"
+    ],
+    "core_keyword": "inspeção de qualidade na China",
+    "long_keywords": [
+      "inspeção pré-embarque China",
+      "controle de qualidade fornecedor chinês",
+      "AQL China"
+    ],
+    "path": "logistica-global/005-inspecao-de-qualidade-na-china-quando-realmente-evita-prejuizo.html",
+    "url": "https://chinacomercioglobal.com/logistica-global/005-inspecao-de-qualidade-na-china-quando-realmente-evita-prejuizo.html",
+    "date": "2026-05-16",
+    "updated_at": "2026-05-16T06:46:56Z",
+    "number": 5,
+    "slug": "005-inspecao-de-qualidade-na-china-quando-realmente-evita-prejuizo",
+    "word_count": 1177,
+    "image_count": 3,
+    "faq_count": 3,
+    "related_links": [
+      {
+        "title": "Fábrica chinesa: capacidade real antes do contrato",
+        "url": "/fabricas-na-china/003-como-saber-se-uma-fabrica-na-china-tem-capacidade-real.html"
+      },
+      {
+        "title": "Supply chain China: risco de depender de um fornecedor",
+        "url": "/supply-chain-da-china/003-como-montar-uma-cadeia-de-fornecimento-da-china-sem-depender-de-um-unico-fornecedor.html"
+      },
+      {
+        "title": "Embarque da China: checklist antes de liberar carga",
+        "url": "/logistica-global/004-como-planejar-inspecao-e-embarque-antes-de-fechar-pedido-na-china.html"
+      }
+    ],
+    "references": [
+      {
+        "title": "Alibaba Trade Assurance",
+        "url": "https://tradeassurance.alibaba.com/"
+      },
+      {
+        "title": "Sebrae - Gestão financeira",
+        "url": "https://sebrae.com.br/sites/PortalSebrae/"
+      }
+    ],
+    "og_image": "https://chinacomercioglobal.com/assets/og/logistica-global/005-inspecao-de-qualidade-na-china-quando-realmente-evita-prejuizo.webp",
+    "status": "published",
+    "blocks": [
+      {
+        "type": "image",
+        "path": "assets/logistica-global/005-inspecao-de-qualidade-na-china-quando-realmente-evita-prejuizo/01.webp",
+        "alt": "inspetor medindo produto em linha de produção antes do embarque",
+        "image_role": "hero"
+      },
+      {
+        "type": "text",
+        "text": "Inspeção ruim custa duas vezes: uma quando você paga por ela e outra quando ela chega tarde demais para mudar o lote. O ponto decisivo não é apenas fazer inspeção. É escolher quando ela ainda consegue alterar o resultado.\nSe a fábrica já embalou tudo, o container já está marcado e você só então descobre que a cor, a solda ou a embalagem saiu errada, você não comprou controle. Comprou confirmação do problema.\nO lote já diz em que ponto você está\nContinue se amostra aprovada, produção e inspeção estão conectadas por critérios escritos.\nEspere se a linha já começou, mas o padrão do lote ainda não foi confirmado.\nPare se a fábrica quer embarcar antes de aceitar conferência objetiva do produto final.\nControle de qualidade só reduz risco quando ainda existe decisão possível.\nA falha que a amostra não mostra\nUma chaleira elétrica pode sair perfeita na amostra e falhar no lote porque a resistência mudou, o cabo veio de outro fornecedor ou a embalagem cedeu na paletização. A primeira peça aprovada prova intenção. O lote aprovado prova repetição.\nDados operacionais antes da decisão\nProduto de referência: chaleira elétrica compacta.\nFOB: US$ 8,60 por unidade.\nMOQ: 600 unidades.\nLead time prometido: 28 dias.\nAmostra aprovada: dia 0.\nProdução parcial para checagem: entre 20% e 40% do lote.\nInspeção pré-embarque: com caixas prontas, antes da liberação final.\nFonte usada: Alibaba, Sebrae e simulação própria.\nSe o defeito crítico só puder ser descoberto depois de 100% embalado, a fábrica já ficou com poder demais sobre a decisão.\nTrês momentos, três utilidades diferentes\nPré-produção confirma material, cor e referência.\nDurante a produção detecta desvio antes que ele se espalhe.\nPré-embarque confirma repetição, embalagem e quantidade final.\nQuem usa uma única inspeção para responder três perguntas diferentes geralmente descobre só metade do que precisava.\nQuando cada etapa paga o próprio custo\nSe o item é simples, sem componente crítico e com histórico estável, uma checagem pré-embarque pode bastar. Se o produto mistura elétrica, embalagem frágil e alto valor por lote, esperar até o fim é economia ruim. O custo da inspeção deve ser comparado ao custo do defeito multiplicado pelo volume.\nO que eu mediria antes de liberar carga\nFunção principal.\nDimensão e tolerância.\nCor ou acabamento.\nAcessórios inclusos.\nEmbalagem individual.\nMarcação externa.\nQuantidade por caixa.\nCondição visual depois do manuseio.\nLista bonita não serve se não conversa com o defeito que realmente dói no seu mercado.\nOnde a operação costuma quebrar\nA fábrica troca componente equivalente sem pedir aprovação.\nO comprador aprova foto, mas não define tolerância.\nA inspeção olha produto e ignora embalagem.\nO lote passa visualmente, mas falha em uso repetido.\nO erro recorrente não é faltar controle. É controlar o que parece fácil, não o que destrói a margem.\nO lote que a amostra não conseguiu proteger\nProduto: luminária de bancada.\nFOB: US$ 5,20.\nMOQ: 800.\nProblema: amostra firme, lote com base mais leve.\nResultado: 18% de reclamações por instabilidade e desconto forçado no segundo canal.\nErro: só houve checagem final visual; ninguém mediu peso da base durante produção.\nQuando a pergunta certa não entra no critério, até uma inspeção aprovada pode deixar prejuízo passar.\nA conversa que evita inspeção teatral\nAntes da fábrica começar, escreva o que será aceito, o que será rejeitado e quem paga correção. Sem isso, a inspeção vira relatório de observação, não ferramenta de decisão.\nPare, espere ou libere\nContinue se defeitos críticos, tolerâncias e ação corretiva já estão definidos.\nEspere se o lote ainda não reproduziu a amostra em material, função e embalagem.\nPare se a fábrica aceita mostrar a linha, mas evita registrar como corrigirá falha.\nTransparência sem consequência ainda não é controle.\nQuando a inspeção não vale mais a pena\nQuando o pedido é tão pequeno que uma segunda amostra resolve melhor.\nQuando o defeito principal nasce no projeto, não na produção.\nQuando o comprador não tem critério para transformar o laudo em decisão.\nPagar inspeção sem saber o que faria com o resultado é só terceirizar ansiedade.\nPróximo passo para um comprador B2B\nMonte uma matriz curta: defeito crítico, quando ele aparece, qual etapa detecta, quem corrige e em quanto tempo. Essa folha vale mais do que pedir 'inspection please' no fim do chat.\nAQL não corrige produto mal definido\nMuita empresa pede AQL como se a sigla por si só produzisse segurança. Não produz. Se o comprador não definiu o que é defeito crítico, maior e menor, o inspetor só mede volume de amostra. AQL ajuda a responder quantas peças olhar; não substitui a decisão sobre o que realmente reprova o lote.\nO ponto em que corrigir ainda custa pouco\nSe o desvio aparece quando 20% a 40% do lote está produzido, a fábrica ainda consegue trocar componente, ajustar processo e salvar prazo. Se aparece depois da embalagem final, qualquer correção exige abrir caixa, retrabalhar e renegociar embarque. O custo da inspeção precisa ser comparado a esse tempo de reação.\nComo diferenciar defeito cosmético de defeito comercial\nRisco B2B não é todo defeito por igual. Uma pequena variação de cor pode ser aceitável num item utilitário e fatal num produto de marca própria. Um arranhão leve talvez não mate a venda atacadista, mas uma embalagem inconsistente pode derrubar distribuição inteira. Critério bom nasce do uso comercial do produto, não de uma lista genérica.\nO laudo que eu aceitaria e o laudo que eu devolveria\nEu aceitaria um laudo que mostra amostra retirada, critério usado, defeito encontrado, fotos objetivas e recomendação clara. Eu devolveria um relatório cheio de fotos bonitas, mas sem dizer o que aquilo muda na decisão. Documento que não leva a liberar, corrigir ou segurar o lote ainda não terminou o trabalho.\nO que revisar depois do primeiro embarque\nDepois que o lote chega, compare reclamações reais com o que foi inspecionado. Se o mercado reclamou de pontos que nunca entraram no checklist, o próximo controle precisa mudar. Processo maduro não repete automaticamente a inspeção anterior; ele aprende onde a primeira ainda foi cega.\nQuem precisa decidir quando o lote reprova\nAntes da inspeção acontecer, alguém precisa ter autoridade para aceitar retrabalho, bloquear embarque ou reduzir lote. Quando essa responsabilidade fica difusa, o relatório chega, todo mundo discute e o container segue por inércia. Governança ruim transforma controle técnico em teatro administrativo.\nO que eu faria se a fábrica pedisse para embarcar mesmo assim\nEu separaria defeito negociável de defeito estrutural. Um pequeno desvio cosmético pode gerar abatimento controlado. Falha de segurança, função ou identidade do produto não deveria virar desconto automático. Se o lote só parece aceitável porque já está pronto, o custo afundado começou a mandar mais do que a qualidade.\nAmostra aprovada elimina inspeção? Não. Ela prova uma peça. O lote ainda precisa provar repetição.\nQuando a inspeção durante produção faz mais sentido? Quando há risco de componente, cor, montagem ou embalagem se desviar em volume.\nSe o laudo vier ruim, ainda posso embarcar? Só se você aceitar conscientemente o defeito. Se ele atinge função, segurança ou reputação, a decisão correta é segurar o lote."
+      },
+      {
+        "type": "image",
+        "path": "assets/logistica-global/005-inspecao-de-qualidade-na-china-quando-realmente-evita-prejuizo/02.webp",
+        "alt": "bancada de inspeção com peças aprovadas e rejeitadas",
+        "image_role": "inline"
+      },
+      {
+        "type": "image",
+        "path": "assets/logistica-global/005-inspecao-de-qualidade-na-china-quando-realmente-evita-prejuizo/03.webp",
+        "alt": "produto e caixa sendo conferidos antes da liberação do lote",
+        "image_role": "inline"
+      }
+    ],
+    "faq": [
+      {
+        "q": "Amostra aprovada elimina inspeção?",
+        "a": "Não. Ela prova uma peça. O lote ainda precisa provar repetição."
+      },
+      {
+        "q": "Quando a inspeção durante produção faz mais sentido?",
+        "a": "Quando há risco de componente, cor, montagem ou embalagem se desviar em volume."
+      },
+      {
+        "q": "Se o laudo vier ruim, ainda posso embarcar?",
+        "a": "Só se você aceitar conscientemente o defeito. Se ele atinge função, segurança ou reputação, a decisão correta é segurar o lote."
+      }
+    ]
+  },
+  {
     "id": "20260515-fabricas-na-china-008",
     "title": "Fábrica, trading company ou agente: quem deve fornecer seu lote?",
     "description": "Compare fábrica, trading company e agente na China por MOQ, inspeção, flexibilidade, Frete, prazo e risco antes do próximo pedido B2B.",
