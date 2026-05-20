@@ -1,5 +1,88 @@
 [
   {
+    "id": "20260520-supply-chain-da-china-005",
+    "title": "Fornecedor reserva na China: quando ter um antes do problema aparecer?",
+    "description": "Entenda quando um segundo fornecedor chinês reduz risco real e quando só cria comparação falsa, retrabalho e custo escondido.",
+    "category": "Supply Chain da China",
+    "category_slug": "supply-chain-da-china",
+    "tags": [
+      "supply chain",
+      "fornecedor",
+      "risco"
+    ],
+    "core_keyword": "fornecedor reserva na China",
+    "long_keywords": [
+      "segundo fornecedor chinês",
+      "supply chain China",
+      "risco de depender de um fornecedor"
+    ],
+    "path": "supply-chain-da-china/005-fornecedor-reserva-na-china-quando-ter-antes-do-problema.html",
+    "url": "https://chinacomercioglobal.com/supply-chain-da-china/005-fornecedor-reserva-na-china-quando-ter-antes-do-problema.html",
+    "date": "2026-05-20",
+    "updated_at": "2026-05-20T13:36:32Z",
+    "number": 5,
+    "slug": "005-fornecedor-reserva-na-china-quando-ter-antes-do-problema",
+    "word_count": 819,
+    "image_count": 1,
+    "faq_count": 3,
+    "related_links": [
+      {
+        "title": "Fim do de minimis nos EUA: o que muda nas rotas globais de pequenos pacotes?",
+        "url": "/logistica-global/007-fim-do-de-minimis-nos-eua-o-que-muda-nos-pequenos-pacotes.html"
+      },
+      {
+        "title": "Brasil vira rota mais atraente para e-commerce chinês enquanto EUA e UE apertam pequenos pacotes?",
+        "url": "/logistica-global/006-brasil-vira-rota-mais-atraente-para-ecommerce-chines.html"
+      },
+      {
+        "title": "Inspeção de qualidade na China: em qual etapa ela realmente evita prejuízo?",
+        "url": "/logistica-global/005-inspecao-de-qualidade-na-china-quando-realmente-evita-prejuizo.html"
+      },
+      {
+        "title": "Fábrica, trading company ou agente: quem deve fornecer seu lote?",
+        "url": "/fabricas-na-china/008-fabrica-trading-company-ou-agente-quem-fornece-melhor.html"
+      }
+    ],
+    "references": [
+      {
+        "title": "Alibaba - supplier sourcing resources",
+        "url": "https://seller.alibaba.com/"
+      },
+      {
+        "title": "Sebrae - gestão financeira",
+        "url": "https://sebrae.com.br/sites/PortalSebrae/"
+      }
+    ],
+    "og_image": "https://chinacomercioglobal.com/assets/og/supply-chain-da-china/005-fornecedor-reserva-na-china-quando-ter-antes-do-problema.webp",
+    "status": "published",
+    "blocks": [
+      {
+        "type": "image",
+        "path": "assets/supply-chain-da-china/005-fornecedor-reserva-na-china-quando-ter-antes-do-problema/01.webp",
+        "alt": "Mesa com duas pastas de fornecedores, amostras de produto e checklist de produção",
+        "image_role": "hero"
+      },
+      {
+        "type": "text",
+        "text": "Ter fornecedor reserva parece prudente, mas pode virar confusão quando o comprador ainda não domina nem o fornecedor principal. Backup bom reduz dependência. Backup ruim duplica amostra, conversa, padrão e incerteza.\nA pergunta madura não é se você deve ter dois fornecedores. É em que momento o segundo fornecedor passa a proteger a operação mais do que distrair a equipe.\nDependência tem custo mesmo quando nada dá errado\nContinue se o fornecedor principal já é bom, mas o produto é crítico para receita.\nEspere se você ainda não definiu padrão, embalagem e tolerância do fornecedor atual.\nPare se o fornecedor reserva é apenas uma ameaça para conseguir desconto.\nSegundo fornecedor não deve ser teatro de negociação; deve ser plano de continuidade.\nO que torna um item crítico\nUm item é crítico quando sua falta trava venda, contrato, campanha ou produção. Nesses casos, depender de uma única fábrica significa transformar atraso, feriado, troca de componente ou aumento de preço em risco direto para o caixa.\nExemplo operacional\nProduto de referência: suporte articulado para mesa.\nFOB do fornecedor principal: US$ 4,30.\nMOQ: 800 unidades.\nFrete: sensível a peso e embalagem.\nLead time: 35 dias.\nFornecedor reserva: ainda precisa provar acabamento e embalagem.\nO segundo fornecedor só ajuda se consegue repetir o padrão que o cliente reconhece. Preço parecido sem padrão parecido ainda não é backup.\nQuando procurar o segundo fornecedor\nProcure antes da crise, mas depois de entender o padrão mínimo. Se você ainda não sabe quais defeitos são críticos, qual embalagem funciona e qual prazo real suporta, vai pedir cotações que parecem comparáveis, mas não são.\nO erro de comparar só FOB\nFornecedor reserva com FOB 6% menor pode sair mais caro se exige MOQ maior, muda parafuso, usa caixa mais fraca ou entrega sem constância. Backup precisa ser comparado por custo de continuidade, não por preço unitário isolado.\nComo validar sem dobrar o caos\nUse a mesma especificação do fornecedor principal.\nPeça amostra com critério escrito.\nCompare embalagem e tolerância.\nTeste um lote pequeno antes de transferir volume.\nRegistre o que o segundo fornecedor ainda não consegue cumprir.\nO objetivo é criar alternativa, não abrir uma segunda fonte de surpresa.\nQuando o fornecedor atual ainda deve ser corrigido\nSe o problema é falta de especificação, comunicação ruim ou inspeção tardia, trocar de fornecedor pode apenas carregar o mesmo erro para outra fábrica. Às vezes o melhor backup começa com processo melhor, não com contato novo.\nSinais de que o backup virou necessidade\nAtrasos recorrentes em períodos críticos.\nAumento de preço sem explicação técnica.\nRecusa em registrar padrão de qualidade.\nCapacidade insuficiente para sua próxima etapa.\nDependência de componente que muda sem aviso.\nQuando esses sinais se repetem, esperar a crise para buscar alternativa deixa o comprador sem alavanca.\nComo manter dois fornecedores sem perder controle\nNão divida especificação. Tenha uma ficha única de produto, embalagem, tolerância, foto de referência e teste de aprovação. Se cada fornecedor trabalha com uma versão diferente, você não tem redundância; tem dois produtos parecidos disputando a mesma promessa.\nDecisão de backup operacional\nContinue se o segundo fornecedor já passou por amostra e lote pequeno.\nEspere se ele ainda só parece bom pelo catálogo.\nPare se a alternativa piora padrão, aumenta MOQ ou cria variação que seu cliente não aceita.\nBackup forte é aquele que pode assumir parte do volume sem o mercado perceber queda de padrão.\nBackup também precisa de papel definido\nNem todo segundo fornecedor deve receber o mesmo volume. Um pode servir para emergência, outro para categoria paralela, outro para crescimento futuro. Se você não define o papel do backup, acaba comparando empresas por critérios errados e cobrando de uma fábrica uma função que ela nunca foi testada para cumprir.\nO teste que evita falsa segurança\nPeça ao fornecedor reserva para produzir uma pequena amostra ou lote piloto seguindo exatamente a ficha do fornecedor principal. Depois compare medida, acabamento, embalagem e tempo de resposta. Se a diferença for grande, ele ainda pode ser útil, mas não deve ser tratado como substituto imediato.\nQuando dividir volume faz sentido\nDividir volume antes de validar o segundo fornecedor pode enfraquecer os dois lados. Mas, depois da validação, uma divisão pequena pode manter relação ativa e reduzir tempo de reação. O segredo é não confundir relacionamento aberto com operação pronta.\nSinal de maturidade da cadeia\nCadeia madura não tem apenas contatos alternativos. Tem especificação única, critérios de aprovação, histórico de amostras, preço comparável e plano de transição. Sem esses itens, o backup existe no telefone, não na operação.\nToda empresa precisa de fornecedor reserva? Não. Precisa quando o item é crítico, o volume justifica e o padrão já está definido o bastante para comparar.\nPosso usar fornecedor reserva para pressionar preço? Pode virar tática fraca. O melhor uso é continuidade, capacidade e redução de dependência.\nQuando testar o segundo fornecedor? Antes da crise, com amostra e lote pequeno, usando a mesma especificação do fornecedor principal."
+      }
+    ],
+    "faq": [
+      {
+        "q": "Toda empresa precisa de fornecedor reserva?",
+        "a": "Não. Precisa quando o item é crítico, o volume justifica e o padrão já está definido o bastante para comparar."
+      },
+      {
+        "q": "Posso usar fornecedor reserva para pressionar preço?",
+        "a": "Pode virar tática fraca. O melhor uso é continuidade, capacidade e redução de dependência."
+      },
+      {
+        "q": "Quando testar o segundo fornecedor?",
+        "a": "Antes da crise, com amostra e lote pequeno, usando a mesma especificação do fornecedor principal."
+      }
+    ]
+  },
+  {
     "id": "20260517-logistica-global-007",
     "title": "Fim do de minimis nos EUA: o que muda nas rotas globais de pequenos pacotes?",
     "description": "Entenda por que o fim do tratamento duty-free para pequenos envios nos EUA altera fluxo, custo e prioridade de rotas para e-commerce internacional.",
